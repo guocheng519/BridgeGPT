@@ -7,7 +7,7 @@
 
 ## 📖 Introduction
 
-**BridgeGPT** is the first domain-specific fine-tuned large language model specialized for bridge engineering. BridgeGPT and its training methodology are presented in **[ACL'25] SDBench: A Survey-based Domain-specific LLM Benchmarking and Optimization Framework**.
+**BridgeGPT** is the first domain-specific fine-tuned large language model specialized for bridge engineering, trained by ZJU EmNets. BridgeGPT and its training methodology are presented in **[ACL'25] SDBench: A Survey-based Domain-specific LLM Benchmarking and Optimization Framework**.
 
 📄 **Paper**: [Link to Paper](https://aclanthology.org/2025.acl-long.662.pdf)
 
@@ -103,6 +103,7 @@ See the [LICENSE](LICENSE) file for details.
 ## 📧 Contact
 
 For questions and feedback, please reach out to:
+- ZJU EmNets: [Main page for EmNets](https://www.emnets.cn/en/)
 - Email: guo.cheng@zju.edu.cn
 - Issues: [GitHub Issues](https://github.com/guocheng519/BridgeGPT/issues)
 
