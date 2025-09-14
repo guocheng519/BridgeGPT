@@ -26,7 +26,6 @@ We have developed an **Automated Bridge Maintenance LLM Framework** based on Bri
 
 ### 1. 🤖 Data-Knowledge Dual-Driven Intelligent Q&A
 
-![Data-Knowledge Q&A Demo](/BridgeGPT_QA_demo.gif)
 
 Our bridge maintenance LLM seamlessly integrates with knowledge bases and databases to retrieve relevant information and provide contextually accurate answers tailored to real-world scenarios. This dual-driven approach ensures responses are both theoretically sound and practically applicable.
 
@@ -38,7 +37,7 @@ Our bridge maintenance LLM seamlessly integrates with knowledge bases and databa
 
 ### 2. 🔍 Bridge Defect Detection & Report Generation
 
-![Defect Detection Demo](/BridgeGPT_M_demo.gif)
+
 
 We've trained a specialized small model for bridge defect detection using open-source datasets and integrated it into the BridgeGPT workflow. This enables BridgeGPT to automatically perform:
 
@@ -49,6 +48,19 @@ We've trained a specialized small model for bridge defect detection using open-s
 
 This integrated solution significantly optimizes bridge maintenance workflows by automating time-consuming manual processes.
 
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <b>🤖 Data-Knowledge Q&A </b><br>
+  <img src="/BridgeGPT_QA_demo.gif" width="320" alt="Q&A Demo">
+</td>
+<td width="50%" align="center">
+  <b>🔍 Defect Detection & Report Generation</b><br>
+  <img src="/BridgeGPT_M_demo.gif" width="320" alt="Defect Detection Demo">
+</td>
+</tr>
+</table>
 
 ## 📚 Citation
 
